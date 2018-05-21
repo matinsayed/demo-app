@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "AzureResourceGroup1", "AzureResourceGroup1\AzureResourceGroup1.deployproj", "{4B01A243-73B1-480A-9B40-C605E5DFF1B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleApp1", "ExampleApp1\ExampleApp1.csproj", "{FF287230-AC2E-44FC-9D31-6D14163B96F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B01A243-73B1-480A-9B40-C605E5DFF1B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B01A243-73B1-480A-9B40-C605E5DFF1B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B01A243-73B1-480A-9B40-C605E5DFF1B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B01A243-73B1-480A-9B40-C605E5DFF1B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF287230-AC2E-44FC-9D31-6D14163B96F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF287230-AC2E-44FC-9D31-6D14163B96F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF287230-AC2E-44FC-9D31-6D14163B96F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF287230-AC2E-44FC-9D31-6D14163B96F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46A2BDFF-C49D-4D0F-8728-A7D53105C25C}
+	EndGlobalSection
+EndGlobal
